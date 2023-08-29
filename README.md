@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**gaab041/gaab041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+Olá sou o Gabriel
+Estou na 1° seríe do ensino médio
+gosto de jogar futebol
+gosto de jogos onlines
